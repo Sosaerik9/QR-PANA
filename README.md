@@ -1,2 +1,0 @@
-# QR-PANA
-QR PANA
